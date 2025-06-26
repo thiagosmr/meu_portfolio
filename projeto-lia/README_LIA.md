@@ -43,10 +43,10 @@ O projeto foi desenvolvido com foco em automação avançada, permitindo um aten
 ## 📸 Prints do projeto
 
 ### Fluxo no N8N
-![Fluxo N8N](images/fluxo-n8n.png)
+![Fluxo N8N](images/n8n)
 
 ### Memória Conversacional no Postgres
-![Memória Conversacional](images/memoria-postgres.png)
+![Memória Conversacional](images/memoria-postgres)
 
 ### Base FAQ Vetorizada (Supabase)
-![FAQ Vetorizada](images/faq-vetorizada.png)
+![FAQ Vetorizada](images/faq-vetorizada)
